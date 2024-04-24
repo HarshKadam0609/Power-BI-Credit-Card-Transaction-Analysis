@@ -10,4 +10,4 @@ SKILLS USED:- Microsoft Power BI
 
 4.Created a story-telling dashboard and gave meaningful insights that gives us an overview about the credit card frauds that have been  increased in while.
 
-5.Used different tools and functions like PowerQuery, DAX (Data Analysis Expressions), Model  View, Table View, Visualisations (Dashboard and Reports) along with the use of Filter and Slicers.
+5.Used different tools and functions like PowerQuery, DAX (Data Analysis Expressions), Model  View, Table View, Different KPI's and Visualisations (Dashboard and Reports) along with the use of Filter and Slicers.
